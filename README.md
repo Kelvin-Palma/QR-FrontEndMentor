@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-(/images/Frontend%20Mentor%20_%20QR%20code%20component.pdf)
+[/images/FrontendMentor_QRcodecomponent_page-0001.jpg]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-FpdOGbLstU]
+- Live Site URL: [https://kelvin-palma.github.io/QR-FrontEndMentor/]
 
 ## My process
 
@@ -41,11 +41,10 @@ Very easy project for someone who recently start in the web development! The onl
 
 ### Useful resources
 
-- [Dev Docs](https://devdocs.io/css/box-shadow) - This helped me to remenber how to put the shadow, and i think it is very important to use these libraries to make solving certain problems.
+- [Dev Docs](:https://devdocs.io/css/box-shadow) - This helped me to remenber how to put the shadow, and i think it is very important to use these libraries to make solving certain problems.
 
 ## Author
 
-- Website - [Kelvin Palma](Developing)
+- Website - [Developing]()
 - Frontend Mentor - [@Kelvin-Palma](https://www.frontendmentor.io/profile/Kelvin-Palma)
 - GitHub - [Kelvin-Palma](https://github.com/Kelvin-Palma)
-

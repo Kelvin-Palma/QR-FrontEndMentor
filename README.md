@@ -40,7 +40,7 @@ Very easy project for someone who recently start in the web development! The onl
 
 ### Useful resources
 
-- [Dev Docs](:https://devdocs.io/css/box-shadow) - This helped me to remenber how to put the shadow, and i think it is very important to use these libraries to make solving certain problems.
+- [Dev Docs](:https://devdocs.io/css/box-shadow) - This helped me to remenber how to put the shadow, and i think it is very important to use these libraries to solving certain problems.
 
 ## Author
 
